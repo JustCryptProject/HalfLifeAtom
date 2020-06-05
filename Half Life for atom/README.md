@@ -1,5 +1,12 @@
-[![4U Comrade](https://i.imgur.com/GdkFzTO.png "4U Comrade")](https://i.imgur.com/GdkFzTO.png "4U Comrade")
+## Was id das?
 
-## Become the engine of the project. Offer your task
-#### Find me on this link
-Psss ... That's all he started [**Jacket**](https://discordapp.com/users/336909912821202954)
+In this program you will find out the chance of decay of 180 atoms of a conditional substance
+
+#### We did it:
+- Momental generation
+- Full information about every step
+- You can complete you homework :tw-1f4aa:
+
+
+###### Consol interface
+[![Look at this](https://i.imgur.com/JiJD0rq.png "Look at this")](https://i.imgur.com/JiJD0rq.png "Look at this")
